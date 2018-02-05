@@ -1,0 +1,7 @@
+c:\users\ginge\source\repos\Lab 10 Movies\Lab 10 Movies\bin\Debug\Lab 10 Movies.exe.config
+c:\users\ginge\source\repos\Lab 10 Movies\Lab 10 Movies\bin\Debug\Lab 10 Movies.exe
+c:\users\ginge\source\repos\Lab 10 Movies\Lab 10 Movies\bin\Debug\Lab 10 Movies.pdb
+c:\users\ginge\source\repos\Lab 10 Movies\Lab 10 Movies\obj\Debug\Lab 10 Movies.csprojResolveAssemblyReference.cache
+c:\users\ginge\source\repos\Lab 10 Movies\Lab 10 Movies\obj\Debug\Lab 10 Movies.csproj.CoreCompileInputs.cache
+c:\users\ginge\source\repos\Lab 10 Movies\Lab 10 Movies\obj\Debug\Lab 10 Movies.exe
+c:\users\ginge\source\repos\Lab 10 Movies\Lab 10 Movies\obj\Debug\Lab 10 Movies.pdb
